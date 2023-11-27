@@ -1,4 +1,4 @@
-# Moby IT Certificates ID Generator
+# Moby IT Certificates IDs
 
 Moby IT's Bootcamp certificate IDs are encrypted and commited to this repository. Each candidate that has completed the Bootcamp should have a file
 under the `certificate_ids` folder named by their name and their certificate id.
